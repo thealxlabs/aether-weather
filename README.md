@@ -101,7 +101,7 @@ All Broswers (Opera has issues with locations, Fixing Now)
 
 <div align="center">
 
-**Alexander Wondwossen** ([@alxgraphy](https://github.com/alxgraphy))
+**Alexander Wondwossen** ([@thealxlabs](https://github.com/thealxlabs))
 
 Made with ❤️ in Toronto, Canada 🇨🇦
 
