@@ -637,12 +637,12 @@ export default function WeatherApp() {
             <p className={`text-sm tracking-[0.2em] uppercase font-light ${isDark ? 'text-gray-400' : 'text-gray-600'}`}>
               Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen{' '}
               <a 
-                href="https://github.com/alxgraphy" 
+                href="https://github.com/thealxlabs" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className={`${isDark ? 'hover:text-white' : 'hover:text-black'} transition-colors duration-300 underline decoration-1 underline-offset-4`}
               >
-                @alxgraphy
+                @thealxlabs
               </a>
             </p>
           </div>
